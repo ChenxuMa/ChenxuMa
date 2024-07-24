@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chenxu-ma-3686991a6/)
 
 * I'm Chenxu Ma and I'm a software engineer currently in the Netherlands.
-* 💻 I normally work with multiple graph traversal algorithm such as BFS, minimum distance, etc. 
+* 💻 I normally work with multiple graph traversal algorithm for payment fraud detection 
 * :email:  Contact me at [chenxu.ma@booking.com](mailto:chenxu.ma@booking.com)
 
 
